@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jonglulu.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-04-02T11:15:52.862Z</updated>
+    <title>WeGo</title>
+    <updated>2022-04-02T11:36:19.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jonglulu.github.io"/>
     <link rel="self" href="https://jonglulu.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>多为少善，不如执一</subtitle>
     <logo>https://jonglulu.github.io/images/avatar.png</logo>
     <icon>https://jonglulu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, WeGo</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jonglulu.github.io/post/hello-gridea/</id>
